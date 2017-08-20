@@ -68,9 +68,8 @@ One size does not fit all. Therefore, I encourage you to browse a few
 different resources suggested by students over the years (see below)
 which might appeal to your learning habits.
 
-* [Python](http://www.python.org>). The official Python web site.
-* [Python tutorials](http://docs.python.org/2/tutorial/). The official Python tutorials.
-* [Think Python](http://www.greenteapress.com/thinkpython/). A free book on Python.
+* [Python](http://www.python.org). The official Python web site.
+* [Python tutorials](http://docs.python.org/3/tutorial/). The official Python tutorials.
+* [Think Python](http://www.greenteapress.com/thinkpython-2e/). A free book on Python.
 * [Free online Python course from the Codecademy](http://www.codecademy.com/tracks/python).
-* [Software Carpentry python course](http://software-carpentry.org/v4/python/).
-* [Khan Academy python course](http://www.khanacademy.org/science/computer-science).
+* [Software Carpentry python course](http://swcarpentry.github.io/python-novice-inflammation/).
